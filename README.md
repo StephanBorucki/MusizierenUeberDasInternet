@@ -4,6 +4,7 @@ Dieses Projekt beschreibt die Möglichkeit mit Hilfe eines Raspberry Pi, der mit
 Im Rahmen dieses Projektes wurden Messverfahren gefunden, um die Übertragungsqualität zu beurteilen. Außerdem wurde ein Messgerät entwickelt, mit dem die Übertragungsqualität auf einfache Weise gemessen werden kann.
 
 Dateibeschreibung:
+
 ZusammenfassungMusizierenUeberInternet.pdf = Deutsche kurze Zusammenfassung des Projektes
 IP_MusiUeINetEnglishSummaryByNilsAngelmann.pdf = English Summery of the Project
 IP-MusiUeINet-Abschlussbericht_Angelmann-Paturej-Pham-Dinh.pdf = Ausführlicher Abschlussbericht über das Projekt
