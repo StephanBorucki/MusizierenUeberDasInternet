@@ -1,4 +1,5 @@
 # MusizierenUeberInternet
-Abschlusspräsentation über das IP Musizieren über das Internet: IP-MusiUeINet-Abschlussbericht_Angelmann-Paturej-Pham-Dinh.pdf 
+Dieses Projekt beschreibt die Möglichkeit mit Hilfe eines Raspberry Pi, der mit einem Mikrophon und einem Kopfhörer verbunden wird, über eine Internetverbindung weltweit mit anderen Musikern einfach zusammen online zu musizieren. Dazu wird die Open Source Software Jamulus verwendet. 
 
-English summary by Nils Angelmann, September 2024: IP__MusiUeINet-08.pdf
+Im Rahmen dieses Projektes wurden Messverfahren gefunden, um die Übertragungsqualität zu beurteilen. Außerdem wurde ein Messgerät entwickelt, mit dem die Übertragungsqualität auf einfache Weise gemessen werden kann.
+
