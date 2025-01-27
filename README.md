@@ -7,7 +7,7 @@ Dateibeschreibung:
 
 ZusammenfassungMusizierenUeberInternet.pdf = Deutsche sehr kurze Zusammenfassung des Projektes
 
-IP_MusiUeINetEnglishSummaryByNilsAngelmann.pdf = English Summery of the Project
+IP_MusiUeINetEnglishSummaryByNilsAngelmann_v250126.pdf = English Summery of the Project
 
 IP-MusiUeINet-Abschlussbericht_Angelmann-Paturej-Pham-Dinh.pdf = Ausführlicher Abschlussbericht über das Projekt
 
@@ -33,7 +33,7 @@ File description:
 
 ZusammenfassungMusizierenUeberInternet.pdf = German very short summary of the project
 
-IP_MusiUeINetEnglishSummaryByNilsAngelmann.pdf = English Summery of the Project
+IP_MusiUeINetEnglishSummaryByNilsAngelmann_v250126.pdf = English Summery of the Project
 
 IP-MusiUeINet-Abschlussbericht_Angelmann-Paturej-Pham-Dinh.pdf = Detailed final report on the project in German
 
