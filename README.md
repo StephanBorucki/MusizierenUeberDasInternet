@@ -7,6 +7,8 @@ Dateibeschreibung:
 
 ZusammenfassungMusizierenUeberInternet.pdf = Deutsche sehr kurze Zusammenfassung des Projektes
 
+IP_ Abschlusspräsentation.pdf = Abschlusspräsentation des Projektes an der FH Aachen am 22. Juli 2022
+
 IP_MusiUeINetEnglishSummaryByNilsAngelmann_v250126.pdf = English Summery of the Project
 
 IP-MusiUeINet-Abschlussbericht_Angelmann-Paturej-Pham-Dinh.pdf = Ausführlicher Abschlussbericht über das Projekt
@@ -32,6 +34,8 @@ As part of this project, measurement methods were found to assess the transmissi
 File description:
 
 ZusammenfassungMusizierenUeberInternet.pdf = German very short summary of the project
+
+IP_ Abschlusspräsentation.pdf = Final presentation of the project at FH Aachen on 22 July 2022
 
 IP_MusiUeINetEnglishSummaryByNilsAngelmann_v250126.pdf = English Summery of the Project
 
