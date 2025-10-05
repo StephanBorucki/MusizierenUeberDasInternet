@@ -54,3 +54,8 @@ KiCad-2024.zip = KiCad circuit diagram, the errors of version KiCad-2022.zip hav
 Bauteile.zip = Component lists with source of supply in German
 
 Arduino-2022.zip = Arduino programming
+
+---
+## License
+This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.
+
