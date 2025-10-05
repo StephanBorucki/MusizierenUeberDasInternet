@@ -3,6 +3,8 @@ Dieses Projekt beschreibt die Möglichkeit mit Hilfe eines Raspberry Pi, der mit
 
 Im Rahmen dieses Projektes wurden Messverfahren gefunden, um die Übertragungsqualität zu beurteilen. Außerdem wurde ein Messgerät entwickelt, mit dem die Übertragungsqualität auf einfache Weise gemessen werden kann.
 
+-> Mehr Informationen zur Messplatine unter: https://github.com/NilsAngelmann/Audio-Measurement-Tool (Englisch)
+
 Dateibeschreibung:
 
 ZusammenfassungMusizierenUeberInternet.pdf = Deutsche sehr kurze Zusammenfassung des Projektes
