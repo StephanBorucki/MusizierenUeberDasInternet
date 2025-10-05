@@ -3,7 +3,7 @@ Dieses Projekt beschreibt die Möglichkeit mit Hilfe eines Raspberry Pi, der mit
 
 Im Rahmen dieses Projektes wurden Messverfahren gefunden, um die Übertragungsqualität zu beurteilen. Außerdem wurde ein Messgerät entwickelt, mit dem die Übertragungsqualität auf einfache Weise gemessen werden kann.
 
--> Mehr Informationen zur Messplatine unter: https://github.com/NilsAngelmann/Audio-Measurement-Tool (Englisch)
+-> Mehr Informationen und Updates zur Messplatine unter: https://github.com/NilsAngelmann/Audio-Measurement-Tool (Englisch)
 
 Dateibeschreibung:
 
@@ -33,7 +33,7 @@ This project describes the possibility of using a Raspberry Pi, which is connect
 
 As part of this project, measurement methods were found to assess the transmission quality. In addition, a measuring device was developed with which the transmission quality can be easily measured.
 
--> More information on the measurement PCB can be found at: https://github.com/NilsAngelmann/Audio-Measurement-Tool
+-> More and updated information on the measurement PCB can be found at: https://github.com/NilsAngelmann/Audio-Measurement-Tool
 
 File description:
 
