@@ -57,5 +57,7 @@ Arduino-2022.zip = Arduino programming
 
 ---
 ## License
-This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.
+This project is licensed under the [CERN Open Hardware License Version 2 – Permissive (CERN-OHL-P)](https://cern-ohl.web.cern.ch/).
 
+You are free to use, modify, and distribute this work, including for commercial purposes,  
+as long as you give appropriate credit to the original authors and include the license notice.
